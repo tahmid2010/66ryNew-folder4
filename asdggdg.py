@@ -1,4 +1,4 @@
-# Assuming a pre-existing Vehicle class
+
 class Vehicle:
     def __init__(self, seating_capacity):
         self.seating_capacity = seating_capacity
